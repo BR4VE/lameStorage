@@ -7,7 +7,7 @@ lameStorage is a small library that makes working with *localStorage* easier
 ----------
 Documentation
 -------------
-###Basic Usage
+### Basic Usage
 ```javascript
 const user = new lameStorage("user1", { name: "George", age:25 });
 // Update the user1 and get the all object
